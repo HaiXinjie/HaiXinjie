@@ -1,2 +1,2 @@
 I am HXJ, I am trying to learn programming. 
-![Use Cases](./Use Cases.svg)
+![Use Cases](HaiXinjie/HaiXinjie/Use Cases.svg)
